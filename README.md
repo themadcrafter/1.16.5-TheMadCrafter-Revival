@@ -1,2 +1,2 @@
 # 1.16.5-TheMadCrafter-Revival
-source code for my mod
+example code for items, tools, weapons, armor and ore generation
